@@ -8,6 +8,25 @@ Bancada de estudos de guitarra para Windows — afinador, metrônomo, acordes & 
 
 Ou veja todas as versões na página de **[Releases](https://github.com/edvanomendes-max/SoulDrive-app/releases)**.
 
+## Capturas de tela
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/inicio-verde.png" alt="Tela de Início"><br><sub><b>Início</b> · destaque verde menta</sub></td>
+    <td width="50%"><img src="docs/acordes-magenta.png" alt="Acordes &amp; Escalas"><br><sub><b>Acordes &amp; Escalas</b> · destaque magenta</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/afinador-laranja.png" alt="Afinador"><br><sub><b>Afinador</b> · destaque laranja</sub></td>
+    <td width="50%"><img src="docs/metronomo-azul.png" alt="Metrônomo"><br><sub><b>Metrônomo</b> · destaque azul</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/progresso-laranja.png" alt="Progresso"><br><sub><b>Progresso</b> · destaque laranja</sub></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+> O tema (claro/escuro) e as 4 cores de destaque — laranja, magenta vintage, azul calcinha e verde menta — são selecionáveis dentro do app.
+
 ## Recursos
 
 - **Afinador** — detecção de pitch em tempo real pelo microfone
